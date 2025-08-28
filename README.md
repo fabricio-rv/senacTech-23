@@ -3,5 +3,5 @@
 **Aluno:** Fabrício Rassier (fabricio-rv)
 **E-mail:** fabriciorassier@gmail.com
 
-Esta é a branch de desenvolvimento.
+Esta é a branch principal.
 
